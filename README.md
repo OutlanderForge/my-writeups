@@ -1,2 +1,2 @@
-# my-writeups
-Collection of write-ups for quality CTF challenges I find
+# Write-up Collection
+Collection of my write-ups for quality CTF challenges I find
